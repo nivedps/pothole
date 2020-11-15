@@ -1,0 +1,9 @@
+== Input details ==
+name: input_1
+shape: [  1 416 416   3]
+type: <class 'numpy.float32'>
+
+== Output details ==
+name: Identity
+shape: [1 1 4]
+type: <class 'numpy.float32'>
